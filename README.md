@@ -1,5 +1,5 @@
-[<img align="left" alt="natriistorm | Google Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar/black/white" />](https://scholar.google.com/citations?user=RYcjZTAAAAAJ&hl=en)
-[<img align="left" alt="natriistorm | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/anastasia-voznyuk/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/anastasia-voznyuk/)
+[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar/black/white" />](https://scholar.google.com/citations?user=RYcjZTAAAAAJ&hl=en)
 <br/>
 
 I am interested in mechanistic interpretability of LLM componenets. Another interest is building robust detectors of AI-generated content and investigating fundamental difference between human-written and LLM-generated texts.
