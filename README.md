@@ -1,5 +1,5 @@
 # Hi there! 👩‍💻
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/anastasia-voznyuk/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/anastasia-voznyuk/)
 [<img align="left" alt="Scholar" width="22px" src="https://cdn.simpleicons.org/googlescholar" />](https://scholar.google.com/citations?user=RYcjZTAAAAAJ&hl=en)
 <br/>
 
